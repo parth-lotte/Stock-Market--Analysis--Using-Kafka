@@ -63,6 +63,11 @@ Later, with the help of crawler we scrape the data and using Amazon Glue we prov
 In the end using **Amazon Athena** we execute our SQL queries on the data stored in Amazon S3 Bucket. 
 
 
+## Amazon S3 Bucket
+
+![alt text](https://github.com/parth-lotte/Stock-Market--Analysis--Using-Kafka/blob/main/S3Bucket.png)
+
+
 
 
 
